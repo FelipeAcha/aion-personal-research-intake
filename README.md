@@ -1,2 +1,2 @@
 # aion-personal-research-intake
-Public policies and reviewer information for AION Personal Research Intake.
+Public policies and reviewer information for Messaging Research Intake.
